@@ -1,2 +1,2 @@
 # C-programming
-Programs worked in c
+Worked Programs in C Language
